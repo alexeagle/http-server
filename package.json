@@ -68,7 +68,7 @@
   "dependencies": {
     "colors": "1.0.3",
     "corser": "~2.0.0",
-    "ecstatic": "^3.0.0",
+    "ecstatic": "github:alexeagle/node-ecstatic#833f734497f72f8cf396f162f46ad48c56ddc4ca",
     "http-proxy": "^1.8.1",
     "opener": "~1.4.0",
     "optimist": "0.6.x",
